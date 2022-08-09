@@ -1,5 +1,7 @@
 # Cygwin的主要用途
-将POSIX系统（例如Linux、BSD，以及其他Unix系统）上的软件移植到Windows上。
+
+> [!NOTE]
+> 将POSIX系统（例如Linux、BSD，以及其他Unix系统）上的软件移植到Windows上。
 
 ![](images/cygwin/4.cygwin终端.png)
 ![](images/cygwin/3.cygwin的目录.png)
